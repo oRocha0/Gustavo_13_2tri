@@ -62,3 +62,4 @@ forcaSenha.classList.add('media');
 } else if (tamanhoSenha < 6 {
 forcaSenha.classList.add('fraca');
 }
+}
